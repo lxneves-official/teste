@@ -10,8 +10,8 @@
 
 // Insira sua rede e sua senha
 
-const char* nome = "THE_WALL_2G";
-const char* senha = "L3oB4b1MigP";
+const char* nome = "nome da rede";
+const char* senha = "senha";
 
 // Configurado na porta 80 
 
